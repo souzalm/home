@@ -64,8 +64,8 @@ li {
 }
 
 .dados-pessoais img {
-  max-width: 144px;
-  max-height: 214px;
+  max-width: 172px;
+  max-height: 256px;
   width: auto;
   height: auto;
 }
@@ -208,6 +208,11 @@ th {
   list-style-position: inside;
 }
 
+#descrição {
+  padding: 5px;
+  text-align: justify;
+}
+
 #formação {
   border-style: dotted;
   border-color: khaki;
@@ -216,8 +221,17 @@ th {
   list-style-position: inside;
 }
 
+#formacaolinha {
+  padding: 5px;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
 #formaçãonapra {
   text-align: justify;
+  padding: 5px;
+  list-style-type: circle;
+  list-style-position: inside;
 }
 
 #publicações {
@@ -229,13 +243,26 @@ th {
   text-align: justify;
 }
 
-#descrição {
+#formacaolinha {
   padding: 5px;
-  text-align: justify;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+#publicacaolinha {
+  padding: 5px;
+  list-style-type: circle;
+  list-style-position: inside;
 }
 
 #role {
   text-align: justify;
+}
+
+#empresarole {
+  padding: 5px;
+  list-style-type: circle;
+  list-style-position: inside;
 }
 
 #site {
