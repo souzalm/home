@@ -92,6 +92,10 @@ li {
   height: auto;
 }
 
+.links {
+  font-size: 80%;
+}
+
 #linha {
   text-align: right;
   display: flex;
