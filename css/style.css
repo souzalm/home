@@ -185,6 +185,33 @@ th {
   height: auto;
 }
 
+#react {
+  margin-right: 5px;
+  margin-left: 5px;
+  max-width: 50px;
+  max-height: 50px;
+  width: auto;
+  height: auto;
+}
+
+#node {
+  margin-right: 5px;
+  margin-left: 5px;
+  max-width: 50px;
+  max-height: 50px;
+  width: auto;
+  height: auto;
+}
+
+#mysql {
+  margin-right: 5px;
+  margin-left: 5px;
+  max-width: 50px;
+  max-height: 50px;
+  width: auto;
+  height: auto;
+}
+
 #resumo {
   padding: 5px;
   border-style: dotted;
