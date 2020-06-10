@@ -218,7 +218,8 @@ th {
   border-color: khaki;
   border-width: 0 0 5px 0;
   text-align: justify;
-  font-size: 1rem;
+  font-size: 1 rem;
+  line-height: 1.5;
 }
 
 #experiências {
@@ -237,11 +238,13 @@ th {
   padding: 5px;
   list-style-type: circle;
   list-style-position: inside;
+  line-height: 1.5;
 }
 
 #descrição {
   padding: 5px;
   text-align: justify;
+  line-height: 1.5;
 }
 
 #formação {
@@ -263,6 +266,7 @@ th {
   padding: 5px;
   list-style-type: circle;
   list-style-position: inside;
+  line-height: 1.5;
 }
 
 #publicações {
@@ -278,16 +282,23 @@ th {
   padding: 5px;
   list-style-type: circle;
   list-style-position: inside;
+  line-height: 1.5;
 }
 
 #publicacaolinha {
   padding: 5px;
   list-style-type: circle;
   list-style-position: inside;
+  line-height: 1.5;
 }
 
 #role {
   text-align: justify;
+  line-height: 1.5;
+}
+
+#role2 {
+  line-height: 1.5;
 }
 
 #empresarole {
