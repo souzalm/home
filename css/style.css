@@ -212,6 +212,15 @@ th {
   height: auto;
 }
 
+#wordpress {
+  margin-right: 5px;
+  margin-left: 5px;
+  max-width: 75px;
+  max-height: 75px;
+  width: auto;
+  height: auto;
+}
+
 #resumo {
   padding: 5px;
   border-style: dotted;
