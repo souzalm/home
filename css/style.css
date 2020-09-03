@@ -188,8 +188,8 @@ th {
 #mongo {
   margin-right: 5px;
   margin-left: 5px;
-  max-width: 80px;
-  max-height: 80px;
+  max-width: 50px;
+  max-height: 50px;
   width: auto;
   height: auto;
 }
